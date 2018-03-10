@@ -24,7 +24,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
 
 Functionality implemented so far:
 
@@ -32,9 +31,9 @@ ADMIN:
 
 1.  A user is preconfigured with the below credentials.
 
-    email: Admin@ncsu.edu
+    email: <b>Admin@ncsu.edu</b>
 
-    password: 12345abc
+    password: <b>12345abc</b>
 
 2.  New users can be created using the Sign Up functionality.
 
