@@ -1,6 +1,11 @@
 # Recruiter_and_Applicant_Tracking_System_Ruby_On_Rails
 This repository contains code for the application <b>"Recruiter_and_Applicant_Tracking_System"</b>. This web application is built on the <b>Ruby_on_Rails web framework</b> and adopts the <b>MVC</b> and <b>REST</b> architectural paradigm.
 
+# HOSTED IN HEROKU
+
+This application is hosted in the freely available PAAS Heroku.
+Click on the link <a href= "https://sheltered-journey-10717.herokuapp.com/">
+
 # README
 
 This README would normally document whatever steps are necessary to get the
