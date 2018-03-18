@@ -4,7 +4,7 @@ This repository contains code for the application <b>"Recruiter_and_Applicant_Tr
 # HOSTED IN HEROKU
 
 This application is hosted in the freely available PAAS Heroku.
-Click on the link <a href= "https://sheltered-journey-10717.herokuapp.com/">
+Click on the link <a href= "https://sheltered-journey-10717.herokuapp.com/"></a>
 
 # README
 
